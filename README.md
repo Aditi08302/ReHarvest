@@ -36,7 +36,7 @@ Farms and restaurants regularly discard perfectly reusable food and byproducts d
 
 ---
 
-## ## 📊 CO₂ Impact Estimation
+## 📊 CO₂ Impact Estimation
 
 We use FAO’s estimate of **4.5 kg of CO₂ equivalent per 1 kg of food waste** to quantify sustainability metrics.
 
