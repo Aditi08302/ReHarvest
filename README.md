@@ -35,22 +35,3 @@ Farms and restaurants regularly discard perfectly reusable food and byproducts d
 | Hosting      | Netlify / Vercel       |
 
 ---
-
-## 📂 Folder Structure
-
-reharvest/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── PostForm.jsx
-│ │ ├── BrowseListings.jsx
-│ │ ├── ListingCard.jsx
-│ │ ├── ImpactDashboard.jsx
-│ │ ├── ImpactChart.jsx
-│ │ ├── FilterBar.jsx
-│ │ └── Navbar.jsx
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── package.json
-└── README.md
