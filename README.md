@@ -31,8 +31,8 @@ Farms and restaurants regularly discard perfectly reusable food and byproducts d
 | State Mgmt   | React useState         |
 | Routing      | React Router DOM       |
 | Charting     | Chart.js / Recharts    |
-| Backend (MVP)| Firebase Firestore (or local state) |
-| Hosting      | Netlify / Vercel       |
+| Backend (MVP)| Firebase  |
+| Hosting      | Vercel       |
 
 ---
 
