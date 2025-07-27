@@ -36,11 +36,12 @@ Farms and restaurants regularly discard perfectly reusable food and byproducts d
 
 ---
 
-## 📊 CO₂ Impact Estimation
-We use FAO’s estimate of 4.5 kg of CO₂ equivalent per 1 kg of food waste to quantify sustainability metrics.
-**const co2Saved = totalQuantityKg * 4.5;**
-The total CO₂ savings and food diverted are visualized on the Impact Dashboard using Chart.js or Recharts.
+## ## 📊 CO₂ Impact Estimation
 
+We use FAO’s estimate of **4.5 kg of CO₂ equivalent per 1 kg of food waste** to quantify sustainability metrics.
+
+```js
+const co2Saved = totalQuantityKg * 4.5;
 ---
 
 ## 💼 Business Model
