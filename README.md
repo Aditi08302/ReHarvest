@@ -30,7 +30,7 @@ Farms and restaurants regularly discard perfectly reusable food and byproducts d
 | Styling      | Tailwind CSS           |
 | State Mgmt   | React useState         |
 | Routing      | React Router DOM       |
-| Charting     | Chart.js / Recharts    |
+| Charting     | Chart.js    |
 | Backend (MVP)| Firebase  |
 | Hosting      | Vercel       |
 
