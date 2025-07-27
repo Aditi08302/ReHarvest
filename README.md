@@ -59,10 +59,10 @@ const co2Saved = totalQuantityKg * 4.5;
 
 ## ♻️ Sustainability Impact
 ### Metric	Description:
-🧺 Food Waste Diverted	Keeps usable byproducts out of landfills
-💨 CO₂ Emissions Avoided	Prevents methane emissions using FAO baseline
-🔁 Circular Practices	Waste becomes compost, animal feed, or biogas input
-🌱 Soil Health	Encourages nutrient recycling through composting
+- 🧺 Food Waste Diverted	Keeps usable byproducts out of landfills
+- 💨 CO₂ Emissions Avoided	Prevents methane emissions using FAO baseline
+- 🔁 Circular Practices	Waste becomes compost, animal feed, or biogas input
+- 🌱 Soil Health	Encourages nutrient recycling through composting
 
 ---
 
