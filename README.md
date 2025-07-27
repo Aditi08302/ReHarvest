@@ -35,3 +35,51 @@ Farms and restaurants regularly discard perfectly reusable food and byproducts d
 | Hosting      | Netlify / Vercel       |
 
 ---
+
+## 📊 CO₂ Impact Estimation
+We use FAO’s estimate of 4.5 kg of CO₂ equivalent per 1 kg of food waste to quantify sustainability metrics.
+**
+const co2Saved = totalQuantityKg * 4.5;
+**
+The total CO₂ savings and food diverted are visualized on the Impact Dashboard using Chart.js or Recharts.
+
+---
+
+## 💼 Business Model
+### Model	Description:
+- Freemium SaaS	Free usage + premium analytics & alerts
+- B2B Logistics Cut	Commission per pickup integration
+- Carbon Credit Sales	Offset emissions tracking monetized via carbon markets
+- Data-as-a-Service	Trend APIs sold to researchers and policy agencies
+- City Licensing	White-labeled versions for municipalities & NGOs
+
+---
+
+## ♻️ Sustainability Impact
+### Metric	Description:
+🧺 Food Waste Diverted	Keeps usable byproducts out of landfills
+💨 CO₂ Emissions Avoided	Prevents methane emissions using FAO baseline
+🔁 Circular Practices	Waste becomes compost, animal feed, or biogas input
+🌱 Soil Health	Encourages nutrient recycling through composting
+
+---
+
+## 👥 Community Impact
+- Connects farmers, food businesses, composters & nonprofits
+- Enables hyperlocal sustainability exchanges
+- Helps small players access larger sustainability networks
+- Drives behavioral change through education and metrics
+
+---
+
+🧠 Why ReHarvest Stands Out
+- 🔁 Agri Byproduct Focus: Goes beyond edible food donation
+- 📍 Hyperlocal Reuse: Enables circular systems in small communities
+- 📊 Impact Tracking: Visual metrics tied to real environmental value
+- ⚡ Hackathon Ready: Built in 5 hours, yet ready for scale
+- 🌿 Built for Circularity: Not just a project — a vision for zero-waste loops
+
+---
+
+## 📄 License
+MIT License © 2025 – Amazon Hackathon Project by [ReHarvest]
